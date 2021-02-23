@@ -1,0 +1,1 @@
+module "go-uid-generator"
