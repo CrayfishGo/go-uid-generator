@@ -1,1 +1,1 @@
-module "github.com/CrayfishGo/go-uid-generator"
+module github.com/CrayfishGo/go-uid-generator
