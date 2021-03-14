@@ -2,7 +2,7 @@ package generator
 
 import (
 	"errors"
-	"go-uid-generator/bits"
+	"github.com/CrayfishGo/go-uid-generator/bits"
 	"strconv"
 	"time"
 )
